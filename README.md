@@ -2,7 +2,9 @@
 
 **A serverless notification system that delivers real-time alerts to your team whenever a GitHub repository receives new stars or activity.**  
 Built entirely using AWS services like Lambda, EventBridge, API Gateway, and DynamoDB — all without any traditional server.
-
+<p align="center">
+  <img src="./assets/result.png" alt="System Workflow" width="700"/>
+</p>
 ---
 
 ## 🧩 Project Overview
