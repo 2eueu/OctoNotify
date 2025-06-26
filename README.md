@@ -1,4 +1,4 @@
-# 📢 GitHub Serverless Notifier
+#  GitHub Serverless Notifier
 
 **A serverless notification system that delivers real-time alerts to your team whenever a GitHub repository receives new stars or activity.**  
 Built entirely using AWS services like Lambda, EventBridge, API Gateway, and DynamoDB — all without any traditional server.
@@ -7,14 +7,14 @@ Built entirely using AWS services like Lambda, EventBridge, API Gateway, and Dyn
 </p>
 ---
 
-## 🧩 Project Overview
+##  Project Overview
 
 This project demonstrates how to build a fully serverless system to track GitHub events (e.g., stars) and send real-time alerts using AWS services.  
 It is optimized for team collaboration and is deployable without managing any infrastructure.
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 | Service       | Role                                                                 |
 |---------------|----------------------------------------------------------------------|
@@ -27,7 +27,7 @@ It is optimized for team collaboration and is deployable without managing any in
 
 ---
 
-## 📈 Workflow Architecture
+##  Workflow Architecture
 
 <p align="center">
   <img src="./assets/result.png" alt="System Workflow" width="700"/>
@@ -43,7 +43,7 @@ It is optimized for team collaboration and is deployable without managing any in
 
 ---
 
-## 🚀 How to Deploy
+##  How to Deploy
 
 ```bash
 # Clone the repository
